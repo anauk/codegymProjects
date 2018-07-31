@@ -1,0 +1,12 @@
+Name: Victor
+Year: 1980
+Salary: 2000
+Name: Vasa
+Year: 1981
+Salary: 2010
+Name: Vara
+Year: 1983
+Salary: 2005
+Name: lev
+Year: 1980
+Salary: 2500

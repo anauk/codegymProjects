@@ -1,0 +1,11 @@
+package solutions.linkedlist;
+
+public class RemoveNode{
+   static class Node{
+       int val;
+       Node next;
+   }
+   public Node(int val){
+       this.val = val;
+    }
+}

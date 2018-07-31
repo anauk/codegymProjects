@@ -1,0 +1,4 @@
+User: [name: Victor, year: 80, salary: 2000]
+User: [name: Vara, year: 83, salary: 2005]
+User: [name: Vasa, year: 81, salary: 2010]
+User: [name: lev, year: 80, salary: 2500]
