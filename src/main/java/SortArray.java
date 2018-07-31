@@ -69,4 +69,8 @@ public class SortArray {
     public static void main(String[] args) {
         Stream.of(3, 7, 12, 1, 6).sorted().forEach(el -> System.out.print(el+", "));
     }
+
+    public static void main1(String[] args) {
+
+    }
 }
